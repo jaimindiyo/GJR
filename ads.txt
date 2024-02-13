@@ -1,0 +1,18 @@
+{
+    "latestVersion":"0.0.1",
+    "appUrl":"",
+    "showAd":true,
+    "privacyUrl":"",
+    "googleNativeId":"ca-app-pub-3940256099942544/2247696110",
+    "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
+    "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
+    "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "isUpdateApp":false,
+    "appOpenVisible":true,
+    "googleNativeVisible":true,
+    "googleBannerVisible":true,
+    "isBackAdd":true,
+    "toBeClicked":1,
+    "playNowClick":"._oaA25NgnD27qRa7gZZ3",
+    "backButtonClick":".Luw8lK38r3OQwrI1_Mkt"
+}
